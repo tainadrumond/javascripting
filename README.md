@@ -1,5 +1,3 @@
 # javascripting
-Códigos em java scripting do node school linguagem de programação 2
-aluna:Luisa Clara de Paula Lara Silva
-Turma: INF-3
+Soluções dos desafios introdutórios a Node.js propostos pela NodeSchool para a disciplina de Linguagem de Programação 2.
 Professora: Michelle Hanne
